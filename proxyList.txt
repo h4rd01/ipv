@@ -982,6 +982,7 @@
 18.197.218.69,443,DE,Amazon.com
 18.199.141.141,8443,DE,Amazon.com
 18.198.227.161,443,DE,Amazon.com
+18.192.93.64,80,DE,Amazon.com
 18.192.93.64,443,DE,Amazon.com
 185.103.252.54,2053,DE,First Server
 185.103.252.54,443,DE,First Server
