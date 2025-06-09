@@ -7408,6 +7408,7 @@
 140.84.178.238,23010,MX,Oracle Cloud
 158.23.81.224,2053,MX,Microsoft Azure
 154.83.86.52,55555,MY,Octopus Web Solution
+163.61.102.25,443,MY,Terabix
 154.90.39.188,48071,MY,LightNode_Limited
 123.253.33.182,12306,MY,Gigabit Hosting Sdn Bhd
 45.195.69.98,30726,MY,Evoxt Enterprise
